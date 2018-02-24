@@ -1,7 +1,9 @@
 # 🚀 nomirror
 
-- Sponsered by Fandogh 🌰
-- Maitained by [pi0](https://github.com/pi0) 💚
+> A mirror service that works!
+
+🌰 Sponsered by _fandogh_    
+💛 Maitained by [pi0](https://github.com/pi0) 
 
 # 🌩 Mirrors
 
