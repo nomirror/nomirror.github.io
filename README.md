@@ -20,3 +20,10 @@ sudo add-apt-repository "deb [arch=amd64] https://docker-download.nomirror.ml/li
 ```bash
 curl -fsSL https://docker-download.nomirror.ml/linux/ubuntu/gpg | sudo apt-key add -
 ```
+
+
+## Jcenter
+
+```gradle
+jcenter { url "https://jcenter.nomirror.ml }
+```
