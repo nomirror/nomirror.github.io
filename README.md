@@ -22,8 +22,9 @@ curl -fsSL https://docker-download.nomirror.ml/linux/ubuntu/gpg | sudo apt-key a
 ```
 
 
-## Jcenter
+## jcenter
 
-```gradle
-jcenter { url "https://jcenter.nomirror.ml }
+```diff
+--jcenter()
+++jcenter { url "https://jcenter.nomirror.ml" }
 ```
