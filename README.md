@@ -25,7 +25,7 @@ curl -fsSL https://docker-download.nomirror.ml/linux/ubuntu/gpg | sudo apt-key a
 
 ## Docker Proxy
 
-Supports docker centeral registry and K8S!
+Supports [Docker centeral registry](https://hub.docker.com) and [Google container registry](https://cloud.google.com/container-registry/).
 
 ### For ubuntu >= 16.04 (with systemctl)
 
